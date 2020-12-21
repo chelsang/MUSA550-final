@@ -79,3 +79,5 @@ The SEPTA bus system has an extensive network across the city and covers the maj
 ## Section Conclusion
 
 The Indego network is robust among most of the neighborhoods near Downtown area but gradually becomes weak as it fades away from the city center. Although the demand to get to different facilities is mostly strong Center City, residents in North Philadelphia might also take advantage of bikeshare to get to neighborhood restauarnts and parks if such access is granted.
+
+

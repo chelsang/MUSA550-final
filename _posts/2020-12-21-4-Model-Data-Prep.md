@@ -12,9 +12,10 @@ hv-loader:
 ---
 
 
+## Data
 
 
-
+![start_dot](https://raw.githubusercontent.com/chelsang/MUSA550-final/master/assets/images/start_trip.png)
 
 
 
