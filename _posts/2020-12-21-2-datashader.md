@@ -1,9 +1,12 @@
 ---
-title: "Example: Embedding Matplotlib Images"
-date: 2019-04-17
+title: "Temporal Spacial Distribution of Bikeshare Trips"
+date: 2020-12-21
+excerpt: "Temporal Change Illustrated in a Datashader Map"
 published: true
-tags: [dataviz, matplotlib]
-excerpt: "This is an example blog post that embeds a matplotlib image."
+tags:
+  - Bikeshare
+  - Philadelphia
+  - Active Transportation
 toc: true
 toc_sticky: true
 read_time: false

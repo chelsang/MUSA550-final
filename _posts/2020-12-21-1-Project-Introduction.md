@@ -1,7 +1,7 @@
 ---
 title: "Project Introduction"
 date: 2020-12-21T10:34:30-04:00
-excerpt: "Prediction of Bikeshare Trip Generation"
+excerpt: "Background Information and Data Supply"
 categories:
   - Project
 tags:
