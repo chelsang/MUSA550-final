@@ -7,8 +7,6 @@ toc: true
 toc_sticky: true
 read_time: false
 excerpt: "Temporal Change Illustrated in a Datashader Map"
-hv-loader:
-	indego-station: "charts/IndegoStations.html"
 ---
 
 <br>
