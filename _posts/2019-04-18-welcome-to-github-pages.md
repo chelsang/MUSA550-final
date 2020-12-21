@@ -1,32 +1,35 @@
 ---
-title: "Introduction and Background"
+title: "Introduction"
 date: 2020-12-21T10:34:30-04:00
 categories:
-  - blog
+  - Project
 tags:
-  - Github Page
-  - update
+  - Bikeshare
+  - Philadelphia
+  - Active Transportation
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and commit your changes to to the repository. GitHub will automatically rebuild your site. Wait a few minutes and then refresh the site link to see the new changes. There are three main ways to make changes to your site:
+![Indego logo]({{ site.url }}{{ site.baseurl }}/assets/images/indego.png)
 
-- Edit files within your in the browser at GitHub.com
-- Use a third party GitHub content editor, like [Prose by Development Seed](https://prose.io).
-- Clone down your repository and make updates locally, then push them to your GitHub repository.
+Indego bikeshare system is Philadelphia's official city-run bikeshare system. Initially launched in 2015, Indego currently has over 1,000 self-service bikes and 130+ stations across the city. 
 
-**To add new posts:** Add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This project will study how Indego bikeshare stations are connected to nearby facilities and run a model that simulates the bikeshare trip prediction process. Due to the scope of this project, the prediction might not be actual enough to derive new station implementation strategies but can act as a reference for policy decisions.
 
-Jekyll also offers powerful support for code snippets:
+The data that supports this project mainly comes from [Indego Data Portal](https://www.rideindego.com/about/data/), [OpenDataPhilly](https://www.opendataphilly.org/) and [OpenStreetMap](https://www.openstreetmap.org/#map=4/38.01/-95.84).
 
-```python
-def print_message(message):
-  print(message)
+In all, this project is divided into 4 parts:
 
-print_message("Welcome to GitHub Pages")
-```
+* Temporal Spacial Distribution of Bikeshare Trips
+	- Temporal Change Illustrated in a Datashader Map
+* Exploratory Analysis of Indego Stations 
+	- Distance from Nearby Facilities to Indego Stations
+* Data Preparation for Prediction Model
+	- Variable Selection and Correlation Testing
+* Predicting Bikeshare Trip Generation
+	- Constructing Sci-kit Learn Machine Learning Model
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Please feel free to reach out should you have any questions about the methodology or data. Hope you enjoy!
+
+
+
