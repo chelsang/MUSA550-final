@@ -9,7 +9,7 @@ tags:
   - Active Transportation
 ---
 
-![Indego logo](https://github.com/chelsang/MUSA550-final/assets/images/indego.png)
+![Indego logo](https://raw.githubusercontent.com/chelsang/MUSA550-final/master/assets/images/indego.png)
 
 Indego bikeshare system is Philadelphia's official city-run bikeshare system. Initially launched in 2015, Indego currently has over 1,000 self-service bikes and 130+ stations across the city. 
 
