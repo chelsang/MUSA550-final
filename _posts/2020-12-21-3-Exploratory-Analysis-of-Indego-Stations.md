@@ -70,8 +70,8 @@ The subway stations pictured in the map include **Market-Frankford Line** that o
 The terminal and close-to-terminal stations are lacking access to Indego services according to the map.
 
 ### 7. SEPTA Bus Stations (Spring 2019 Stops by Route)
-Data acquired [here](https://septaopendata-septa.opendata.arcgis.com/datasets/spring-2019-stops-by-route).
-![bus_map](https://raw.githubusercontent.com/chelsang/MUSA550-final/master/assets/images/bus.png)
+![bus_map](https://raw.githubusercontent.com/chelsang/MUSA550-final/master/assets/images/bus.png) <br>
+Data acquired [here](https://septaopendata-septa.opendata.arcgis.com/datasets/spring-2019-stops-by-route). <br>
 
 The SEPTA bus system has an extensive network across the city and covers the majority of Philadelphia's neighborhoods. However, the bikeshare system is not functioning well as a "last-mile" connector to the bus network due to the unease of immediate access.
 

@@ -16,7 +16,6 @@ hv-loader:
 ## Indego Trip Distribution
 
 datashader where you at
-
 <div id="indego-station"></div>
 
 The 
