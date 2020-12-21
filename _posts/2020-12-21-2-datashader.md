@@ -12,11 +12,14 @@ toc_sticky: true
 read_time: false
 ---
 
-
+<br>
 # Explorating Indego Data
 
-## Indego Station Distribution
+## 1. Indego Station Distribution
 <div id="Indego"></div>
+![Indego station](https://raw.githubusercontent.com/chelsang/MUSA550-final/master/charts/IndegoStations.html)
+
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
 
 The 
 
