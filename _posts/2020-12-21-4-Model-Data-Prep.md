@@ -1,16 +1,28 @@
 ---
-title: "Example: Embedding Altair & Hvplot Charts"
-date: 2019-04-13
+title: "Data Preparation for Prediction Model"
+date: 2020-12-21
 published: true
-tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "Embedding interactive charts on static pages using Jekyll."
-altair-loader:
-  altair-chart-1: "charts/measlesAltair.json"
-hv-loader:
-  hv-chart-1: "charts/measlesHvplot.html"
+tags:[Bikeshare, Philadelphia, Active Transportation]
 toc: true
 toc_sticky: true
+read_time: false
+excerpt: "Variable Selection and Correlation Testing"
+hv-loader:
+	indego-station: "charts/IndegoStations.html"
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This post will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
 

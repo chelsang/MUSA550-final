@@ -15,8 +15,11 @@ hv-loader:
 
 ## Indego Trip Distribution
 
-datashader where you at
-<div id="indego-station"></div>
+For a better understanding of the scale of this project, the time-lapse GIF below shows how trips change overtime.
+
+
+
+![ds_map](https://raw.githubusercontent.com/chelsang/MUSA550-final/master/assets/images/bike_trips_quarter.gif)
 
 The 
 
