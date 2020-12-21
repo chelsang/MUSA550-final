@@ -69,7 +69,7 @@ The subway stations pictured in the map include **Market-Frankford Line** that o
 
 The terminal and close-to-terminal stations are lacking access to Indego services according to the map.
 
-### 7. SEPTA Bus Stations (Spring 2019 Stops by Route)
+#### 7. SEPTA Bus Stations (Spring 2019 Stops by Route)
 ![bus_map](https://raw.githubusercontent.com/chelsang/MUSA550-final/master/assets/images/bus.png) <br>
 Data acquired [here](https://septaopendata-septa.opendata.arcgis.com/datasets/spring-2019-stops-by-route). <br>
 
@@ -78,6 +78,6 @@ The SEPTA bus system has an extensive network across the city and covers the maj
 
 ## Section Conclusion
 
-The Indego network is robust among most of the neighborhoods near Downtown area but gradually becomes weak as it fades away from the city center. Although the demand to get to different facilities is mostly strong Center City, residents in North Philadelphia might also take advantage of bikeshare to get to neighborhood restauarnts and parks if such access is granted.
+The Indego network is robust among most of the neighborhoods near downtown area but gradually becomes weak as it fades away from the city center. Although the demand to get to different facilities is not as strong in North Philadelphia as in Center City, residents in North Philadelphia might still be able to take advantage of bikeshare to get to nearby facilities if such access is provided.
 
 
