@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Project Introduction"
 date: 2020-12-21T10:34:30-04:00
 excerpt: "Prediction of Bikeshare Trip Generation"
 categories:
@@ -9,6 +9,7 @@ tags:
   - Philadelphia
   - Active Transportation
 ---
+
 
 ![Indego logo](https://raw.githubusercontent.com/chelsang/MUSA550-final/master/assets/images/indego.png)
 
