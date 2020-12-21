@@ -1,18 +1,23 @@
-# github-pages-starter
+# Evaluation of Indego Bikeshare Trip Generation 
 
-A template for including data visualizations in a Jekyll-powered blog with Github Pages.
+Chen (Chelsea) Zhang
+
+MUSA 550 Final Project
+December 21, 2020
 
 
-## Steps
-- Click on the "Use this template" button to create a new repository.
-- Choose a new name for your new repository
-- Go to the Settings section of your new repository, scroll down to the "Github Pages" section, and select the "Master" as the branch to be used for GitHub pages. This will automatically build the website. 
-- Customize your site
-  - Enter your site name, description, etc by editing the `_config.yml` file.
-  - There are 3 different ways that you can make changes to your blog's files:
-    - Edit files within your in the browser at GitHub.com
-    - Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io).
-    - Clone down your repository and make updates locally, then push them to your GitHub repository.
-- Publish a post
-  - Posts are written in Markdown and any files added to the `_posts` directory will be automatically uploaded and published
-  - Useful resource: [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/)
+This project studies how Indego bikeshare stations are connected to nearby facilities and runs a machine learning model that simulates the bikeshare trip prediction process. Accuracy of the model is limited due to the scope of this project, but policy recommendations can be derived to guide future Indego station implementation.
+
+
+In all, this project is carried out into 4 parts:
+
+* Temporal Spacial Distribution of Bikeshare Trips
+	- Temporal Change Illustrated in a Datashader Map
+* Exploratory Analysis of Indego Stations 
+	- Distance from Nearby Facilities to Indego Stations
+* Data Preparation for Prediction Model
+	- Variable Selection and Correlation Testing
+* Predicting Bikeshare Trip Generation
+	- Constructing Sci-kit Learn Machine Learning Model
+
+For a web-based reading experience, please go here: https://chelsang.github.io/MUSA550-final/.
