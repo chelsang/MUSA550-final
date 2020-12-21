@@ -29,7 +29,7 @@ In all, this project is divided into 4 parts:
 	- Constructing Sci-kit Learn Machine Learning Model
 
 
-Please feel free to reach out should you have any questions about the methodology or data. Hope you enjoy!
+Please feel free to reach out should you have any questions about the methodology or data. Enjoy!
 
 
 
