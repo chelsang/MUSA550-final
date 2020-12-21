@@ -12,9 +12,14 @@ toc_sticky: true
 read_time: false
 ---
 
-# Section 1
 
-This is an example post. The posts are written in markdown.
+# Explorating Indego Data
+
+## Indego Station Distribution
+<div id="Indego"></div>
+
+The 
+
 
 ## Abandoned Cars
 
