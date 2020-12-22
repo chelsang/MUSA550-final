@@ -5,7 +5,7 @@ published: true
 tags: [dataviz, folium]
 excerpt: "Constructing Sci-kit Learn Machine Learning Model"
 hv-loader:
-	IndegoStations: "charts/importance.html"
+	importance: "charts/importance.html"
 toc: true
 toc_sticky: true
 ---
