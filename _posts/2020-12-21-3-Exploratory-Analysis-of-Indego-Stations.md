@@ -2,12 +2,13 @@
 title: "Exploratory Analysis of Indego Stations"
 date: 2020-12-21
 published: true
-tags:[Bikeshare, Philadelphia, Active Transportation]
+tags: [Bikeshare, Philadelphia, Active Transportation]
 excerpt: "Distance from Nearby Facilities to Indego Stations"
 hv-loader:
   hv-chart-1: ["charts/IndegoStations.html", "500"]
 toc: true
 toc_sticky: true
+
 ---
 
 <br>

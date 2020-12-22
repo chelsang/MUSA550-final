@@ -2,10 +2,11 @@
 title: "Data Preparation for Prediction Model"
 date: 2020-12-21
 published: true
-tags:[Bikeshare, Philadelphia, Active Transportation]
+tags: [Bikeshare, Philadelphia, Active Transportation]
 excerpt: "Variable Selection and Correlation Testing"
 toc: true
 toc_sticky: true
+
 ---
 
 

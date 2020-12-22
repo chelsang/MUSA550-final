@@ -2,10 +2,11 @@
 title: "Temporal Spacial Distribution of Bikeshare Trips"
 date: 2020-12-21
 published: true
-tags:[Bikeshare, Philadelphia, Active Transportation]
+tags: [Bikeshare, Philadelphia, Active Transportation]
 excerpt: "Temporal Change Illustrated in a Datashader Map"
 toc: true
 toc_sticky: true
+
 ---
 
 <br>
