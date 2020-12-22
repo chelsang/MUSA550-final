@@ -2,7 +2,8 @@
 title: "Predicting Bikeshare Trip Generation"
 date: 2019-04-13
 published: true
-tags: [dataviz, folium]
+tags: [Bikeshare, Philadelphia, Active Transportation]
+categories: [Project]
 excerpt: "Constructing Sci-kit Learn Machine Learning Model"
 hv-loader:
 	importance: "charts/importance.html"

@@ -3,6 +3,7 @@ title: "Exploratory Analysis of Indego Stations"
 date: 2020-12-21
 published: true
 tags:[Bikeshare, Philadelphia, Active Transportation]
+categories: [Project]
 toc: true
 toc_sticky: true
 read_time: false
