@@ -3,11 +3,9 @@ title: "Exploratory Analysis of Indego Stations"
 date: 2020-12-21
 published: true
 tags:[Bikeshare, Philadelphia, Active Transportation]
-categories: [Project]
-read_time: false
 excerpt: "Distance from Nearby Facilities to Indego Stations"
 hv-loader:
- IndegoStations: "charts/IndegoStations.html"
+  hv-chart-1: ["charts/IndegoStations.html", "500"]
 toc: true
 toc_sticky: true
 ---
@@ -16,7 +14,7 @@ toc_sticky: true
 
 ## Indego Station Distribution
 
-<div id="IndegoStations"></div>
+<div id="hv-chart-1"></div>
 
 The above interactive map shows the distribution of all Indego bikeshare station in Philadelphia. By hovering over the stations, you can easily see the number of total docks available at each station and number of bikes available as of Dec 21, 2020 10:53AM. 
 
