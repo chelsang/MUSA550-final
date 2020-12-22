@@ -5,7 +5,7 @@ published: true
 tags:[Bikeshare, Philadelphia, Active Transportation]
 excerpt: "Distance from Nearby Facilities to Indego Stations"
 hv-loader:
-  IndegoStations: "charts/IndegoStations.html"
+  IndegoStations: ["charts/IndegoStations.html"]
 toc: true
 toc_sticky: true
 ---
