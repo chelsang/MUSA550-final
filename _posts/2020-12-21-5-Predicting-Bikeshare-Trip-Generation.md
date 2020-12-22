@@ -4,15 +4,31 @@ date: 2019-04-13
 published: true
 tags: [dataviz, folium]
 excerpt: "Constructing Sci-kit Learn Machine Learning Model"
-folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "400"]
-  folium-chart-2: ["charts/percent_no_internet.html", "400"]
+hv-loader:
+	IndegoStations: "charts/importance.html"
 toc: true
 toc_sticky: true
 ---
 
 
 ## Fitting the Model
+
+In this model, the training set and testing set has a 70%/30% split. After fitting a random forest model, a 5-fold cross-validation is conducted to optimize the hyperparameters.
+
+```javascript
+/# Evaluate the best random forest model/
+best_random = grid.best_estimator_
+grid.score(test_set, y_test)
+```
+`0.40827975407227945`
+
+
+
+<div id="importance"></div>
+
+hv-loader:
+	IndegoStations: "charts/IndegoStations.html"
+![importance](https://raw.githubusercontent.com/chelsang/MUSA550-final/master/assets/images/correlation2.png)
 
 
 
