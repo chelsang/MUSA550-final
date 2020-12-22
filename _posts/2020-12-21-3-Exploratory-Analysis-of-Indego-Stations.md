@@ -9,7 +9,7 @@ toc_sticky: true
 read_time: false
 excerpt: "Distance from Nearby Facilities to Indego Stations"
 hv-loader:
-	IndegoStations: "charts/IndegoStations.html"
+ IndegoStations: "charts/IndegoStations.html"
 ---
 
 <br>
