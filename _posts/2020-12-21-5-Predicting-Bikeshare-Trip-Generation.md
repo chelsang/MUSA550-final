@@ -38,4 +38,5 @@ Despite a low test score, this model generally gets a good grasp of the distribu
 
 A well-functioning bikeshare system plays an important role in promoting active transportation in cities. To build a robust bicycle network, bicycle infrastructure is crucial and will encourage citizens to use them. Currently Philadelphia's Indego stations are all in direct proximity to existent bike lanes, yet the bikeshare network still underserves a lot of Philadelphia neighborhoods. Therefore, the city has to further push forward programs and initiatives to invest on cycling infrastructure if it wants to establish a robust bicycle network.
 
+![indego_photo](https://raw.githubusercontent.com/chelsang/MUSA550-final/master/assets/images/indego_photo.jpg)
 
