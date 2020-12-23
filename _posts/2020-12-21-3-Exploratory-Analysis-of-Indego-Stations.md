@@ -11,8 +11,6 @@ toc_sticky: true
 
 ---
 
-<br>
-
 ## Indego Station Distribution
 
 <div id="hv-chart-1"></div>
