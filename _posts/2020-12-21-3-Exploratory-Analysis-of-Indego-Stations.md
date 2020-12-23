@@ -1,5 +1,5 @@
 ---
-title: "Exploratory Analysis of Indego Stations"
+title: "3. Exploratory Analysis of Indego Stations"
 date: 2020-12-21
 published: true
 tags: [Bikeshare, Philadelphia, Active Transportation]
