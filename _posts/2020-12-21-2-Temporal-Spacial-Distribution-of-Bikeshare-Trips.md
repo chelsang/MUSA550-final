@@ -9,7 +9,6 @@ toc_sticky: true
 
 ---
 
-<br>
 
 ## Indego Trip Distribution
 
