@@ -5,7 +5,7 @@ published: true
 tags: [Bikeshare, Philadelphia, Active Transportation]
 excerpt: "Constructing Sci-kit Learn Machine Learning Model"
 hv-loader:
-  hv-chart-1: ["charts/importance.html", "500"]
+  importance: ["charts/importance.html", "500"]
 toc: true
 toc_sticky: true
 
@@ -25,7 +25,7 @@ grid.score(test_set, y_test)
 
 The test score of the randomforest model is 0.41, which is not too satisfactory, but is much higher than the linear model test score, which is 0.14.
 
-<div id="hv-chart-1"></div>
+<div id="importance"></div>
 
 The plot above shows that bikeshare system internal factors have significantly more important impacts on trip production than other factors.
 
