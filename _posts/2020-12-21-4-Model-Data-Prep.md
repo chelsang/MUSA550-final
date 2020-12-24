@@ -1,5 +1,5 @@
 ---
-title: "4. Data Preparation for Prediction Model"
+title: "Data Preparation for Prediction Model"
 date: 2020-12-21
 published: true
 tags: [Bikeshare, Philadelphia, Active Transportation]
