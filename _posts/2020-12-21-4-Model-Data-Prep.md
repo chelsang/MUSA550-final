@@ -1,5 +1,5 @@
 ---
-title: "ata Preparation for Prediction Model"
+title: "Data Preparation for Prediction Model"
 date: 2020-12-18
 published: true
 tags: [Bikeshare, Philadelphia, Active Transportation]
