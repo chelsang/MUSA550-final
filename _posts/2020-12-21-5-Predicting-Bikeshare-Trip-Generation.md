@@ -26,7 +26,6 @@ grid.score(test_set, y_test)
 The test score of the randomforest model is 0.41, which is not too satisfactory, but is much higher than the linear model test score, which is 0.14.
 
 <div id="importance"></div>
-
 The plot above shows that bikeshare system internal factors have significantly more important impacts on trip production than other factors.
 
 
