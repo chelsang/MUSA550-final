@@ -1,6 +1,6 @@
 ---
 title: "5. Predicting Bikeshare Trip Generation"
-date: 2020-12-21
+date: 2020-12-17
 published: true
 tags: [Bikeshare, Philadelphia, Active Transportation]
 excerpt: "Constructing Sci-kit Learn Machine Learning Model"
