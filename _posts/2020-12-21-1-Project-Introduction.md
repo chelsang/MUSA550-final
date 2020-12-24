@@ -1,5 +1,5 @@
 ---
-title: "1. Project Introduction"
+title: "Project Introduction"
 date: 2020-12-21T10:34:30-04:00
 tags: [Bikeshare, Philadelphia, Active Transportation]
 excerpt: "Background Information and Data Supply"
