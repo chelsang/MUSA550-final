@@ -12,8 +12,7 @@ toc_sticky: true
 
 ## Where do bikeshare trips start?
 
-To study trip generation, the following analysis will focus on the trio-starting stations. The map below shows that most trips start within Center City, and based on the previous analyses, they also "stay within" Center City. The most popular starting-stations are close to city center or Schuylkill River trail.
-![start_dot](https://raw.githubusercontent.com/chelsang/MUSA550-final/master/assets/images/start_trip.png)
+To study trip generation, the following analysis will focus on the trio-starting stations. The map below shows that most trips start within Center City, and based on the previous analyses, they also "stay within" Center City. The most popular starting-stations are close to city center or Schuylkill River trail.![start_dot](https://raw.githubusercontent.com/chelsang/MUSA550-final/master/assets/images/start_trip.png)
 ## Variable Selection
 
 To run a trip prediction model, different types of variables and chosen, and they can be divided into the following categories:
