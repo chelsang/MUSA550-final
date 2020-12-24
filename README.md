@@ -1,9 +1,9 @@
 # Evaluation of Indego Bikeshare Trip Generation 
 
-Chen (Chelsea) Zhang
+**Chen (Chelsea) Zhang**
 
-MUSA 550 Final Project
-December 21, 2020
+**MUSA 550 Final Project <br>
+December 21, 2020**
 
 
 This project studies how Indego bikeshare stations are connected to nearby facilities and runs a machine learning model that simulates the bikeshare trip generation prediction process. Accuracy of the model is limited due to the scope of this project, but policy recommendations can be derived to guide future Indego station implementation.
